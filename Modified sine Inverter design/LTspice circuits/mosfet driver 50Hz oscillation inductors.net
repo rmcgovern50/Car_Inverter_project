@@ -1,0 +1,24 @@
+* C:\Users\ryanm\OneDrive - Queen's University Belfast\Misc\projects\small_12V_car_inverter\LTspice circuits\mosfet driver 50Hz oscillation inductors.asc
+XU1 NC_01 NC_02 N003 0 N006 N005 0 VCC Output1 Output2 VCC VCC Vref Vref NC_03 NC_04 TL494
+V§supply VCC 0 12
+R1 N005 0 9091
+V2 N003 0 2.0
+R2 Output1 0 1Meg
+C1 N006 0 2.2µ
+M1 N001 Output1 0 0 IRFH5250
+R4 0 Output2 1Meg
+M2 N004 Output2 0 0 IRFH5250
+R6 VCC N002 0.1
+C2 VCC 0 0.1µ
+L1 N001 N002 50
+L2 N002 N004 50
+L3 0 L 40000
+R3 L 0 1k
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\ryanm\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 0 0.25 0 0.001 startup
+k1 L1 L2 L3 1
+.lib TL494.sub
+.backanno
+.end

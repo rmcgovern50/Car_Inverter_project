@@ -1,0 +1,502 @@
+Circuit: * C:\Users\ryanm\OneDrive - Queen's University Belfast\Misc\projects\small_12V_car_inverter\LTspice circuits\PWM generator 2.asc
+
+WARNING: Less than two connections to node NC_04.  This node is used by Q:U1:2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(ea1:1)
+Ignoring empty pin current: Ix(ea1:2)
+Ignoring empty pin current: Ix(ea1:3)
+Ignoring empty pin current: Ix(ea1:4)
+Ignoring empty pin current: Ix(ea1:5)
+Ignoring empty pin current: Ix(ea2:1)
+Ignoring empty pin current: Ix(ea2:2)
+Ignoring empty pin current: Ix(ea2:3)
+Ignoring empty pin current: Ix(ea2:4)
+Ignoring empty pin current: Ix(ea2:5)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u2:4)
+Ignoring empty pin current: Ix(u2:5)
+Ignoring empty pin current: Ix(ea1:1)
+Ignoring empty pin current: Ix(ea1:2)
+Ignoring empty pin current: Ix(ea1:3)
+Ignoring empty pin current: Ix(ea1:4)
+Ignoring empty pin current: Ix(ea1:5)
+Ignoring empty pin current: Ix(ea2:1)
+Ignoring empty pin current: Ix(ea2:2)
+Ignoring empty pin current: Ix(ea2:3)
+Ignoring empty pin current: Ix(ea2:4)
+Ignoring empty pin current: Ix(ea2:5)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u2:4)
+Ignoring empty pin current: Ix(u2:5)
+Heightened Def Con from 1.4955e-005 ++++++++++++++++++++++to 1.4956e-005
+Heightened Def Con from 5.13389e-005 ++++++++++++++++++++++to 5.13399e-005
+Heightened Def Con from 8.28565e-005 ++++++++++++++++++++++to 8.28575e-005
+Heightened Def Con from 0.000114357 ++++++++++++++++++++++to 0.000114358
+Heightened Def Con from 0.000145885 ++++++++++++++++++++++to 0.000145886
+Heightened Def Con from 0.000177406 ++++++++++++++++++++++to 0.000177407
+Heightened Def Con from 0.000208905 ++++++++++++++++++++++to 0.000208906
+Heightened Def Con from 0.000240433 ++++++++++++++++++++++to 0.000240434
+Heightened Def Con from 0.00027195 ++++++++++++++++++++++to 0.000271951
+Heightened Def Con from 0.000303465 ++++++++++++++++++++++to 0.000303466
+Heightened Def Con from 0.000334981 ++++++++++++++++++++++to 0.000334982
+Heightened Def Con from 0.000366502 ++++++++++++++++++++++to 0.000366503
+Heightened Def Con from 0.000398017 ++++++++++++++++++++++to 0.000398018
+Heightened Def Con from 0.00042953 ++++++++++++++++++++++to 0.000429531
+Heightened Def Con from 0.000461046 ++++++++++++++++++++++to 0.000461047
+Heightened Def Con from 0.000492566 ++++++++++++++++++++++to 0.000492567
+Heightened Def Con from 0.000524079 ++++++++++++++++++++++to 0.00052408
+Heightened Def Con from 0.000555591 ++++++++++++++++++++++to 0.000555592
+Heightened Def Con from 0.000587112 ++++++++++++++++++++++to 0.000587113
+Heightened Def Con from 0.000618625 ++++++++++++++++++++++to 0.000618626
+Heightened Def Con from 0.000650141 ++++++++++++++++++++++to 0.000650142
+Heightened Def Con from 0.000681663 ++++++++++++++++++++++to 0.000681664
+Heightened Def Con from 0.000713162 ++++++++++++++++++++++to 0.000713163
+Heightened Def Con from 0.000744697 ++++++++++++++++++++++to 0.000744698
+Heightened Def Con from 0.000776209 ++++++++++++++++++++++to 0.00077621
+Heightened Def Con from 0.000807721 ++++++++++++++++++++++to 0.000807722
+Heightened Def Con from 0.000839223 ++++++++++++++++++++++to 0.000839224
+Heightened Def Con from 0.00087074 ++++++++++++++++++++++to 0.000870741
+Heightened Def Con from 0.000902271 ++++++++++++++++++++++to 0.000902272
+Heightened Def Con from 0.000933793 ++++++++++++++++++++++to 0.000933794
+Heightened Def Con from 0.000965301 ++++++++++++++++++++++to 0.000965302
+Heightened Def Con from 0.000996818 ++++++++++++++++++++++to 0.000996819
+Heightened Def Con from 0.00102832 ++++++++++++++++++++++to 0.00102832
+Heightened Def Con from 0.00105985 ++++++++++++++++++++++to 0.00105985
+Heightened Def Con from 0.00109136 ++++++++++++++++++++++to 0.00109136
+Heightened Def Con from 0.00112288 ++++++++++++++++++++++to 0.00112288
+Heightened Def Con from 0.0011544 ++++++++++++++++++++++to 0.0011544
+Heightened Def Con from 0.00118591 ++++++++++++++++++++++to 0.00118591
+Heightened Def Con from 0.00121742 ++++++++++++++++++++++to 0.00121743
+Heightened Def Con from 0.00124894 ++++++++++++++++++++++to 0.00124895
+Heightened Def Con from 0.00128046 ++++++++++++++++++++++to 0.00128046
+Heightened Def Con from 0.00131198 ++++++++++++++++++++++to 0.00131198
+Heightened Def Con from 0.00134348 ++++++++++++++++++++++to 0.00134349
+Heightened Def Con from 0.00137501 ++++++++++++++++++++++to 0.00137501
+Heightened Def Con from 0.00140653 ++++++++++++++++++++++to 0.00140653
+Heightened Def Con from 0.00143803 ++++++++++++++++++++++to 0.00143803
+Heightened Def Con from 0.00146956 ++++++++++++++++++++++to 0.00146956
+Heightened Def Con from 0.00150107 ++++++++++++++++++++++to 0.00150107
+Heightened Def Con from 0.00153258 ++++++++++++++++++++++to 0.00153259
+Heightened Def Con from 0.0015641 ++++++++++++++++++++++to 0.0015641
+Heightened Def Con from 0.00159562 ++++++++++++++++++++++to 0.00159562
+Heightened Def Con from 0.00162713 ++++++++++++++++++++++to 0.00162714
+Heightened Def Con from 0.00165865 ++++++++++++++++++++++to 0.00165865
+Heightened Def Con from 0.00169017 ++++++++++++++++++++++to 0.00169017
+Heightened Def Con from 0.00172168 ++++++++++++++++++++++to 0.00172168
+Heightened Def Con from 0.00175319 ++++++++++++++++++++++to 0.00175319
+Heightened Def Con from 0.0017847 ++++++++++++++++++++++to 0.0017847
+Heightened Def Con from 0.00181623 ++++++++++++++++++++++to 0.00181623
+Heightened Def Con from 0.00184774 ++++++++++++++++++++++to 0.00184774
+Heightened Def Con from 0.00187926 ++++++++++++++++++++++to 0.00187926
+Heightened Def Con from 0.00191077 ++++++++++++++++++++++to 0.00191077
+Heightened Def Con from 0.00194229 ++++++++++++++++++++++to 0.00194229
+Heightened Def Con from 0.00197381 ++++++++++++++++++++++to 0.00197382
+Heightened Def Con from 0.00200532 ++++++++++++++++++++++to 0.00200532
+Heightened Def Con from 0.00203684 ++++++++++++++++++++++to 0.00203684
+Heightened Def Con from 0.00206836 ++++++++++++++++++++++to 0.00206836
+Heightened Def Con from 0.00209987 ++++++++++++++++++++++to 0.00209987
+Heightened Def Con from 0.00213137 ++++++++++++++++++++++to 0.00213138
+Heightened Def Con from 0.00216291 ++++++++++++++++++++++to 0.00216291
+Heightened Def Con from 0.00219441 ++++++++++++++++++++++to 0.00219441
+Heightened Def Con from 0.00222594 ++++++++++++++++++++++to 0.00222594
+Heightened Def Con from 0.00225745 ++++++++++++++++++++++to 0.00225745
+Heightened Def Con from 0.00228896 ++++++++++++++++++++++to 0.00228896
+Heightened Def Con from 0.00232048 ++++++++++++++++++++++to 0.00232048
+Heightened Def Con from 0.002352 ++++++++++++++++++++++to 0.002352
+Heightened Def Con from 0.00238352 ++++++++++++++++++++++to 0.00238352
+Heightened Def Con from 0.00241502 ++++++++++++++++++++++to 0.00241503
+Heightened Def Con from 0.00244655 ++++++++++++++++++++++to 0.00244655
+Heightened Def Con from 0.00247805 ++++++++++++++++++++++to 0.00247805
+Heightened Def Con from 0.00250958 ++++++++++++++++++++++to 0.00250958
+Heightened Def Con from 0.00254109 ++++++++++++++++++++++to 0.00254109
+Heightened Def Con from 0.00257261 ++++++++++++++++++++++to 0.00257261
+Heightened Def Con from 0.00260412 ++++++++++++++++++++++to 0.00260412
+Heightened Def Con from 0.00263565 ++++++++++++++++++++++to 0.00263565
+Heightened Def Con from 0.00266716 ++++++++++++++++++++++to 0.00266716
+Heightened Def Con from 0.00269867 ++++++++++++++++++++++to 0.00269868
+Heightened Def Con from 0.00273019 ++++++++++++++++++++++to 0.00273019
+Heightened Def Con from 0.00276169 ++++++++++++++++++++++to 0.00276169
+Heightened Def Con from 0.00279322 ++++++++++++++++++++++to 0.00279322
+Heightened Def Con from 0.00282473 ++++++++++++++++++++++to 0.00282473
+Heightened Def Con from 0.00285625 ++++++++++++++++++++++to 0.00285625
+Heightened Def Con from 0.00288778 ++++++++++++++++++++++to 0.00288778
+Heightened Def Con from 0.00291929 ++++++++++++++++++++++to 0.00291929
+Heightened Def Con from 0.0029508 ++++++++++++++++++++++to 0.0029508
+Heightened Def Con from 0.0029823 ++++++++++++++++++++++to 0.00298231
+Heightened Def Con from 0.00301384 ++++++++++++++++++++++to 0.00301384
+Heightened Def Con from 0.00304534 ++++++++++++++++++++++to 0.00304534
+Heightened Def Con from 0.00307686 ++++++++++++++++++++++to 0.00307686
+Heightened Def Con from 0.00310838 ++++++++++++++++++++++to 0.00310838
+Heightened Def Con from 0.00313989 ++++++++++++++++++++++to 0.00313989
+Heightened Def Con from 0.0031714 ++++++++++++++++++++++to 0.0031714
+Heightened Def Con from 0.00320292 ++++++++++++++++++++++to 0.00320292
+Heightened Def Con from 0.00323444 ++++++++++++++++++++++to 0.00323444
+Heightened Def Con from 0.00326595 ++++++++++++++++++++++to 0.00326596
+Heightened Def Con from 0.00329748 ++++++++++++++++++++++to 0.00329748
+Heightened Def Con from 0.00332899 ++++++++++++++++++++++to 0.00332899
+Heightened Def Con from 0.00336051 ++++++++++++++++++++++to 0.00336051
+Heightened Def Con from 0.00339203 ++++++++++++++++++++++to 0.00339203
+Heightened Def Con from 0.00342354 ++++++++++++++++++++++to 0.00342354
+Heightened Def Con from 0.00345505 ++++++++++++++++++++++to 0.00345505
+Heightened Def Con from 0.00348656 ++++++++++++++++++++++to 0.00348656
+Heightened Def Con from 0.00351809 ++++++++++++++++++++++to 0.00351809
+Heightened Def Con from 0.00354961 ++++++++++++++++++++++to 0.00354961
+Heightened Def Con from 0.00358112 ++++++++++++++++++++++to 0.00358112
+Heightened Def Con from 0.00361263 ++++++++++++++++++++++to 0.00361263
+Heightened Def Con from 0.00364415 ++++++++++++++++++++++to 0.00364415
+Heightened Def Con from 0.00367567 ++++++++++++++++++++++to 0.00367567
+Heightened Def Con from 0.00370718 ++++++++++++++++++++++to 0.00370718
+Heightened Def Con from 0.0037387 ++++++++++++++++++++++to 0.0037387
+Heightened Def Con from 0.00377022 ++++++++++++++++++++++to 0.00377022
+Heightened Def Con from 0.00380173 ++++++++++++++++++++++to 0.00380173
+Heightened Def Con from 0.00383324 ++++++++++++++++++++++to 0.00383324
+Heightened Def Con from 0.00386476 ++++++++++++++++++++++to 0.00386476
+Heightened Def Con from 0.00389628 ++++++++++++++++++++++to 0.00389628
+Heightened Def Con from 0.00392779 ++++++++++++++++++++++to 0.00392779
+Heightened Def Con from 0.00395931 ++++++++++++++++++++++to 0.00395931
+Heightened Def Con from 0.00399082 ++++++++++++++++++++++to 0.00399082
+Heightened Def Con from 0.00402235 ++++++++++++++++++++++to 0.00402235
+Heightened Def Con from 0.00405386 ++++++++++++++++++++++to 0.00405386
+Heightened Def Con from 0.00408537 ++++++++++++++++++++++to 0.00408537
+Heightened Def Con from 0.00411689 ++++++++++++++++++++++to 0.0041169
+Heightened Def Con from 0.00414841 ++++++++++++++++++++++to 0.00414841
+Heightened Def Con from 0.00417992 ++++++++++++++++++++++to 0.00417992
+Heightened Def Con from 0.00421144 ++++++++++++++++++++++to 0.00421144
+Heightened Def Con from 0.00424296 ++++++++++++++++++++++to 0.00424296
+Heightened Def Con from 0.00427446 ++++++++++++++++++++++to 0.00427446
+Heightened Def Con from 0.00430598 ++++++++++++++++++++++to 0.00430598
+Heightened Def Con from 0.0043375 ++++++++++++++++++++++to 0.0043375
+Heightened Def Con from 0.00436902 ++++++++++++++++++++++to 0.00436902
+Heightened Def Con from 0.00440053 ++++++++++++++++++++++to 0.00440054
+Heightened Def Con from 0.00443205 ++++++++++++++++++++++to 0.00443205
+Heightened Def Con from 0.00446357 ++++++++++++++++++++++to 0.00446357
+Heightened Def Con from 0.00449508 ++++++++++++++++++++++to 0.00449508
+Heightened Def Con from 0.0045266 ++++++++++++++++++++++to 0.0045266
+Heightened Def Con from 0.00455811 ++++++++++++++++++++++to 0.00455812
+Heightened Def Con from 0.00458963 ++++++++++++++++++++++to 0.00458963
+Heightened Def Con from 0.00462113 ++++++++++++++++++++++to 0.00462114
+Heightened Def Con from 0.00465267 ++++++++++++++++++++++to 0.00465267
+Heightened Def Con from 0.00468418 ++++++++++++++++++++++to 0.00468418
+Heightened Def Con from 0.00471568 ++++++++++++++++++++++to 0.00471568
+Heightened Def Con from 0.00474721 ++++++++++++++++++++++to 0.00474721
+Heightened Def Con from 0.00477873 ++++++++++++++++++++++to 0.00477873
+Heightened Def Con from 0.00481025 ++++++++++++++++++++++to 0.00481025
+Heightened Def Con from 0.00484176 ++++++++++++++++++++++to 0.00484176
+Heightened Def Con from 0.00487328 ++++++++++++++++++++++to 0.00487328
+Heightened Def Con from 0.00490478 ++++++++++++++++++++++to 0.00490479
+Heightened Def Con from 0.0049363 ++++++++++++++++++++++to 0.0049363
+Heightened Def Con from 0.00496782 ++++++++++++++++++++++to 0.00496782
+Heightened Def Con from 0.00499934 ++++++++++++++++++++++to 0.00499934
+Heightened Def Con from 0.00503084 ++++++++++++++++++++++to 0.00503084
+Heightened Def Con from 0.00506237 ++++++++++++++++++++++to 0.00506237
+Heightened Def Con from 0.00509389 ++++++++++++++++++++++to 0.00509389
+Heightened Def Con from 0.0051254 ++++++++++++++++++++++to 0.0051254
+Heightened Def Con from 0.00515691 ++++++++++++++++++++++to 0.00515691
+Heightened Def Con from 0.00518843 ++++++++++++++++++++++to 0.00518843
+Heightened Def Con from 0.00521995 ++++++++++++++++++++++to 0.00521995
+Heightened Def Con from 0.00525145 ++++++++++++++++++++++to 0.00525145
+Heightened Def Con from 0.00528298 ++++++++++++++++++++++to 0.00528298
+Heightened Def Con from 0.0053145 ++++++++++++++++++++++to 0.0053145
+Heightened Def Con from 0.00534601 ++++++++++++++++++++++to 0.00534601
+Heightened Def Con from 0.00537753 ++++++++++++++++++++++to 0.00537753
+Heightened Def Con from 0.00540905 ++++++++++++++++++++++to 0.00540905
+Heightened Def Con from 0.00544056 ++++++++++++++++++++++to 0.00544056
+Heightened Def Con from 0.00547208 ++++++++++++++++++++++to 0.00547208
+Heightened Def Con from 0.00550359 ++++++++++++++++++++++to 0.00550359
+Heightened Def Con from 0.00553511 ++++++++++++++++++++++to 0.00553511
+Heightened Def Con from 0.00556663 ++++++++++++++++++++++to 0.00556663
+Heightened Def Con from 0.00559814 ++++++++++++++++++++++to 0.00559814
+Heightened Def Con from 0.00562965 ++++++++++++++++++++++to 0.00562965
+Heightened Def Con from 0.00566117 ++++++++++++++++++++++to 0.00566117
+Heightened Def Con from 0.00569268 ++++++++++++++++++++++to 0.00569268
+Heightened Def Con from 0.0057242 ++++++++++++++++++++++to 0.00572421
+Heightened Def Con from 0.00575572 ++++++++++++++++++++++to 0.00575572
+Heightened Def Con from 0.00578722 ++++++++++++++++++++++to 0.00578722
+Heightened Def Con from 0.00581875 ++++++++++++++++++++++to 0.00581875
+Heightened Def Con from 0.00585027 ++++++++++++++++++++++to 0.00585027
+Heightened Def Con from 0.00588178 ++++++++++++++++++++++to 0.00588178
+Heightened Def Con from 0.0059133 ++++++++++++++++++++++to 0.0059133
+Heightened Def Con from 0.00594481 ++++++++++++++++++++++to 0.00594481
+Heightened Def Con from 0.00597633 ++++++++++++++++++++++to 0.00597633
+Heightened Def Con from 0.00600785 ++++++++++++++++++++++to 0.00600785
+Heightened Def Con from 0.00603937 ++++++++++++++++++++++to 0.00603937
+Heightened Def Con from 0.00607088 ++++++++++++++++++++++to 0.00607088
+Heightened Def Con from 0.00610238 ++++++++++++++++++++++to 0.00610238
+Heightened Def Con from 0.00613391 ++++++++++++++++++++++to 0.00613391
+Heightened Def Con from 0.00616543 ++++++++++++++++++++++to 0.00616543
+Heightened Def Con from 0.00619694 ++++++++++++++++++++++to 0.00619694
+Heightened Def Con from 0.00622846 ++++++++++++++++++++++to 0.00622846
+Heightened Def Con from 0.00625998 ++++++++++++++++++++++to 0.00625998
+Heightened Def Con from 0.0062915 ++++++++++++++++++++++to 0.0062915
+Heightened Def Con from 0.006323 ++++++++++++++++++++++to 0.006323
+Heightened Def Con from 0.00635452 ++++++++++++++++++++++to 0.00635452
+Heightened Def Con from 0.00638604 ++++++++++++++++++++++to 0.00638604
+Heightened Def Con from 0.00641756 ++++++++++++++++++++++to 0.00641756
+Heightened Def Con from 0.00644908 ++++++++++++++++++++++to 0.00644908
+Heightened Def Con from 0.00648059 ++++++++++++++++++++++to 0.00648059
+Heightened Def Con from 0.0065121 ++++++++++++++++++++++to 0.0065121
+Heightened Def Con from 0.00654361 ++++++++++++++++++++++to 0.00654361
+Heightened Def Con from 0.00657513 ++++++++++++++++++++++to 0.00657514
+Heightened Def Con from 0.00660665 ++++++++++++++++++++++to 0.00660665
+Heightened Def Con from 0.00663815 ++++++++++++++++++++++to 0.00663815
+Heightened Def Con from 0.00666968 ++++++++++++++++++++++to 0.00666968
+Heightened Def Con from 0.0067012 ++++++++++++++++++++++to 0.0067012
+Heightened Def Con from 0.00673271 ++++++++++++++++++++++to 0.00673271
+Heightened Def Con from 0.00676423 ++++++++++++++++++++++to 0.00676423
+Heightened Def Con from 0.00679573 ++++++++++++++++++++++to 0.00679574
+Heightened Def Con from 0.00682726 ++++++++++++++++++++++to 0.00682727
+Heightened Def Con from 0.00685878 ++++++++++++++++++++++to 0.00685878
+Heightened Def Con from 0.0068903 ++++++++++++++++++++++to 0.0068903
+Heightened Def Con from 0.00692181 ++++++++++++++++++++++to 0.00692181
+Heightened Def Con from 0.00695332 ++++++++++++++++++++++to 0.00695332
+Heightened Def Con from 0.00698483 ++++++++++++++++++++++to 0.00698483
+Heightened Def Con from 0.00701636 ++++++++++++++++++++++to 0.00701636
+Heightened Def Con from 0.00704788 ++++++++++++++++++++++to 0.00704788
+Heightened Def Con from 0.00707939 ++++++++++++++++++++++to 0.00707939
+Heightened Def Con from 0.0071109 ++++++++++++++++++++++to 0.0071109
+Heightened Def Con from 0.00714242 ++++++++++++++++++++++to 0.00714242
+Heightened Def Con from 0.00717394 ++++++++++++++++++++++to 0.00717394
+Heightened Def Con from 0.00720545 ++++++++++++++++++++++to 0.00720545
+Heightened Def Con from 0.00723697 ++++++++++++++++++++++to 0.00723697
+Heightened Def Con from 0.00726848 ++++++++++++++++++++++to 0.00726848
+Heightened Def Con from 0.0073 ++++++++++++++++++++++to 0.0073
+Heightened Def Con from 0.00733152 ++++++++++++++++++++++to 0.00733152
+Heightened Def Con from 0.00736303 ++++++++++++++++++++++to 0.00736303
+Heightened Def Con from 0.00739454 ++++++++++++++++++++++to 0.00739455
+Heightened Def Con from 0.00742606 ++++++++++++++++++++++to 0.00742606
+Heightened Def Con from 0.00745758 ++++++++++++++++++++++to 0.00745758
+Heightened Def Con from 0.00748909 ++++++++++++++++++++++to 0.00748909
+Heightened Def Con from 0.00752061 ++++++++++++++++++++++to 0.00752061
+Heightened Def Con from 0.00755213 ++++++++++++++++++++++to 0.00755213
+Heightened Def Con from 0.00758364 ++++++++++++++++++++++to 0.00758364
+Heightened Def Con from 0.00761516 ++++++++++++++++++++++to 0.00761516
+Heightened Def Con from 0.00764668 ++++++++++++++++++++++to 0.00764668
+Heightened Def Con from 0.00767819 ++++++++++++++++++++++to 0.00767819
+Heightened Def Con from 0.00770969 ++++++++++++++++++++++to 0.00770969
+Heightened Def Con from 0.00774123 ++++++++++++++++++++++to 0.00774123
+Heightened Def Con from 0.00777274 ++++++++++++++++++++++to 0.00777274
+Heightened Def Con from 0.00780425 ++++++++++++++++++++++to 0.00780425
+Heightened Def Con from 0.00783578 ++++++++++++++++++++++to 0.00783578
+Heightened Def Con from 0.00786728 ++++++++++++++++++++++to 0.00786728
+Heightened Def Con from 0.0078988 ++++++++++++++++++++++to 0.0078988
+Heightened Def Con from 0.00793032 ++++++++++++++++++++++to 0.00793032
+Heightened Def Con from 0.00796183 ++++++++++++++++++++++to 0.00796183
+Heightened Def Con from 0.00799335 ++++++++++++++++++++++to 0.00799335
+Heightened Def Con from 0.00802487 ++++++++++++++++++++++to 0.00802487
+Heightened Def Con from 0.00805639 ++++++++++++++++++++++to 0.00805639
+Heightened Def Con from 0.00808789 ++++++++++++++++++++++to 0.0080879
+Heightened Def Con from 0.00811941 ++++++++++++++++++++++to 0.00811942
+Heightened Def Con from 0.00815093 ++++++++++++++++++++++to 0.00815093
+Heightened Def Con from 0.00818244 ++++++++++++++++++++++to 0.00818245
+Heightened Def Con from 0.00821396 ++++++++++++++++++++++to 0.00821396
+Heightened Def Con from 0.00824548 ++++++++++++++++++++++to 0.00824548
+Heightened Def Con from 0.00827699 ++++++++++++++++++++++to 0.00827699
+Heightened Def Con from 0.00830851 ++++++++++++++++++++++to 0.00830851
+Heightened Def Con from 0.00834002 ++++++++++++++++++++++to 0.00834002
+Heightened Def Con from 0.00837154 ++++++++++++++++++++++to 0.00837154
+Heightened Def Con from 0.00840306 ++++++++++++++++++++++to 0.00840307
+Heightened Def Con from 0.00843457 ++++++++++++++++++++++to 0.00843457
+Heightened Def Con from 0.00846609 ++++++++++++++++++++++to 0.00846609
+Heightened Def Con from 0.00849761 ++++++++++++++++++++++to 0.00849761
+Heightened Def Con from 0.00852912 ++++++++++++++++++++++to 0.00852912
+Heightened Def Con from 0.00856064 ++++++++++++++++++++++to 0.00856064
+Heightened Def Con from 0.00859215 ++++++++++++++++++++++to 0.00859215
+Heightened Def Con from 0.00862367 ++++++++++++++++++++++to 0.00862367
+Heightened Def Con from 0.00865519 ++++++++++++++++++++++to 0.00865519
+Heightened Def Con from 0.0086867 ++++++++++++++++++++++to 0.0086867
+Heightened Def Con from 0.00871821 ++++++++++++++++++++++to 0.00871821
+Heightened Def Con from 0.00874973 ++++++++++++++++++++++to 0.00874973
+Heightened Def Con from 0.00878124 ++++++++++++++++++++++to 0.00878124
+Heightened Def Con from 0.00881276 ++++++++++++++++++++++to 0.00881276
+Heightened Def Con from 0.00884428 ++++++++++++++++++++++to 0.00884428
+Heightened Def Con from 0.00887578 ++++++++++++++++++++++to 0.00887578
+Heightened Def Con from 0.0089073 ++++++++++++++++++++++to 0.0089073
+Heightened Def Con from 0.00893883 ++++++++++++++++++++++to 0.00893883
+Heightened Def Con from 0.00897035 ++++++++++++++++++++++to 0.00897035
+Heightened Def Con from 0.00900186 ++++++++++++++++++++++to 0.00900186
+Heightened Def Con from 0.00903338 ++++++++++++++++++++++to 0.00903338
+Heightened Def Con from 0.00906489 ++++++++++++++++++++++to 0.0090649
+Heightened Def Con from 0.0090964 ++++++++++++++++++++++to 0.0090964
+Heightened Def Con from 0.00912792 ++++++++++++++++++++++to 0.00912792
+Heightened Def Con from 0.00915944 ++++++++++++++++++++++to 0.00915944
+Heightened Def Con from 0.00919095 ++++++++++++++++++++++to 0.00919095
+Heightened Def Con from 0.00922247 ++++++++++++++++++++++to 0.00922247
+Heightened Def Con from 0.00925399 ++++++++++++++++++++++to 0.009254
+Heightened Def Con from 0.00928551 ++++++++++++++++++++++to 0.00928551
+Heightened Def Con from 0.00931702 ++++++++++++++++++++++to 0.00931702
+Heightened Def Con from 0.00934854 ++++++++++++++++++++++to 0.00934854
+Heightened Def Con from 0.00938005 ++++++++++++++++++++++to 0.00938005
+Heightened Def Con from 0.00941157 ++++++++++++++++++++++to 0.00941157
+Heightened Def Con from 0.00944308 ++++++++++++++++++++++to 0.00944308
+Heightened Def Con from 0.0094746 ++++++++++++++++++++++to 0.0094746
+Heightened Def Con from 0.00950612 ++++++++++++++++++++++to 0.00950612
+Heightened Def Con from 0.00953763 ++++++++++++++++++++++to 0.00953763
+Heightened Def Con from 0.00956915 ++++++++++++++++++++++to 0.00956915
+Heightened Def Con from 0.00960066 ++++++++++++++++++++++to 0.00960066
+Heightened Def Con from 0.00963218 ++++++++++++++++++++++to 0.00963218
+Heightened Def Con from 0.00966369 ++++++++++++++++++++++to 0.0096637
+Heightened Def Con from 0.00969521 ++++++++++++++++++++++to 0.00969521
+Heightened Def Con from 0.00972673 ++++++++++++++++++++++to 0.00972673
+Heightened Def Con from 0.00975824 ++++++++++++++++++++++to 0.00975824
+Heightened Def Con from 0.00978976 ++++++++++++++++++++++to 0.00978976
+Heightened Def Con from 0.00982128 ++++++++++++++++++++++to 0.00982128
+Heightened Def Con from 0.00985279 ++++++++++++++++++++++to 0.00985279
+Heightened Def Con from 0.00988431 ++++++++++++++++++++++to 0.00988431
+Heightened Def Con from 0.00991582 ++++++++++++++++++++++to 0.00991583
+Heightened Def Con from 0.00994734 ++++++++++++++++++++++to 0.00994734
+Heightened Def Con from 0.00997884 ++++++++++++++++++++++to 0.00997884
+Heightened Def Con from 0.0100104 ++++++++++++++++++++++to 0.0100104
+Heightened Def Con from 0.0100419 ++++++++++++++++++++++to 0.0100419
+Heightened Def Con from 0.0100734 ++++++++++++++++++++++to 0.0100734
+Heightened Def Con from 0.0101049 ++++++++++++++++++++++to 0.0101049
+Heightened Def Con from 0.0101364 ++++++++++++++++++++++to 0.0101364
+Heightened Def Con from 0.0101679 ++++++++++++++++++++++to 0.0101679
+Heightened Def Con from 0.0101995 ++++++++++++++++++++++to 0.0101995
+Heightened Def Con from 0.010231 ++++++++++++++++++++++to 0.010231
+Heightened Def Con from 0.0102625 ++++++++++++++++++++++to 0.0102625
+Heightened Def Con from 0.010294 ++++++++++++++++++++++to 0.010294
+Heightened Def Con from 0.0103255 ++++++++++++++++++++++to 0.0103255
+Heightened Def Con from 0.010357 ++++++++++++++++++++++to 0.010357
+Heightened Def Con from 0.0103886 ++++++++++++++++++++++to 0.0103886
+Heightened Def Con from 0.0104201 ++++++++++++++++++++++to 0.0104201
+Heightened Def Con from 0.0104516 ++++++++++++++++++++++to 0.0104516
+Heightened Def Con from 0.0104831 ++++++++++++++++++++++to 0.0104831
+Heightened Def Con from 0.0105146 ++++++++++++++++++++++to 0.0105146
+Heightened Def Con from 0.0105461 ++++++++++++++++++++++to 0.0105461
+Heightened Def Con from 0.0105777 ++++++++++++++++++++++to 0.0105777
+Heightened Def Con from 0.0106092 ++++++++++++++++++++++to 0.0106092
+Heightened Def Con from 0.0106407 ++++++++++++++++++++++to 0.0106407
+Heightened Def Con from 0.0106722 ++++++++++++++++++++++to 0.0106722
+Heightened Def Con from 0.0107037 ++++++++++++++++++++++to 0.0107037
+Heightened Def Con from 0.0107352 ++++++++++++++++++++++to 0.0107352
+Heightened Def Con from 0.0107668 ++++++++++++++++++++++to 0.0107668
+Heightened Def Con from 0.0107983 ++++++++++++++++++++++to 0.0107983
+Heightened Def Con from 0.0108298 ++++++++++++++++++++++to 0.0108298
+Heightened Def Con from 0.0108613 ++++++++++++++++++++++to 0.0108613
+Heightened Def Con from 0.0108928 ++++++++++++++++++++++to 0.0108928
+Heightened Def Con from 0.0109243 ++++++++++++++++++++++to 0.0109243
+Heightened Def Con from 0.0109558 ++++++++++++++++++++++to 0.0109558
+Heightened Def Con from 0.0109874 ++++++++++++++++++++++to 0.0109874
+Heightened Def Con from 0.0110189 ++++++++++++++++++++++to 0.0110189
+Heightened Def Con from 0.0110504 ++++++++++++++++++++++to 0.0110504
+Heightened Def Con from 0.0110819 ++++++++++++++++++++++to 0.0110819
+Heightened Def Con from 0.0111134 ++++++++++++++++++++++to 0.0111134
+Heightened Def Con from 0.0111449 ++++++++++++++++++++++to 0.0111449
+Heightened Def Con from 0.0111765 ++++++++++++++++++++++to 0.0111765
+Heightened Def Con from 0.011208 ++++++++++++++++++++++to 0.011208
+Heightened Def Con from 0.0112395 ++++++++++++++++++++++to 0.0112395
+Heightened Def Con from 0.011271 ++++++++++++++++++++++to 0.011271
+Heightened Def Con from 0.0113025 ++++++++++++++++++++++to 0.0113025
+Heightened Def Con from 0.011334 ++++++++++++++++++++++to 0.011334
+Heightened Def Con from 0.0113656 ++++++++++++++++++++++to 0.0113656
+Heightened Def Con from 0.0113971 ++++++++++++++++++++++to 0.0113971
+Heightened Def Con from 0.0114286 ++++++++++++++++++++++to 0.0114286
+Heightened Def Con from 0.0114601 ++++++++++++++++++++++to 0.0114601
+Heightened Def Con from 0.0114916 ++++++++++++++++++++++to 0.0114916
+Heightened Def Con from 0.0115231 ++++++++++++++++++++++to 0.0115231
+Heightened Def Con from 0.0115547 ++++++++++++++++++++++to 0.0115547
+Heightened Def Con from 0.0115862 ++++++++++++++++++++++to 0.0115862
+Heightened Def Con from 0.0116177 ++++++++++++++++++++++to 0.0116177
+Heightened Def Con from 0.0116492 ++++++++++++++++++++++to 0.0116492
+Heightened Def Con from 0.0116807 ++++++++++++++++++++++to 0.0116807
+Heightened Def Con from 0.0117122 ++++++++++++++++++++++to 0.0117122
+Heightened Def Con from 0.0117438 ++++++++++++++++++++++to 0.0117438
+Heightened Def Con from 0.0117752 ++++++++++++++++++++++to 0.0117752
+Heightened Def Con from 0.0118068 ++++++++++++++++++++++to 0.0118068
+Heightened Def Con from 0.0118383 ++++++++++++++++++++++to 0.0118383
+Heightened Def Con from 0.0118698 ++++++++++++++++++++++to 0.0118698
+Heightened Def Con from 0.0119013 ++++++++++++++++++++++to 0.0119013
+Heightened Def Con from 0.0119328 ++++++++++++++++++++++to 0.0119328
+Heightened Def Con from 0.0119644 ++++++++++++++++++++++to 0.0119644
+Heightened Def Con from 0.0119959 ++++++++++++++++++++++to 0.0119959
+Heightened Def Con from 0.0120274 ++++++++++++++++++++++to 0.0120274
+Heightened Def Con from 0.0120589 ++++++++++++++++++++++to 0.0120589
+Heightened Def Con from 0.0120904 ++++++++++++++++++++++to 0.0120904
+Heightened Def Con from 0.0121219 ++++++++++++++++++++++to 0.0121219
+Heightened Def Con from 0.0121534 ++++++++++++++++++++++to 0.0121534
+Heightened Def Con from 0.012185 ++++++++++++++++++++++to 0.012185
+Heightened Def Con from 0.0122165 ++++++++++++++++++++++to 0.0122165
+Heightened Def Con from 0.012248 ++++++++++++++++++++++to 0.012248
+Heightened Def Con from 0.0122795 ++++++++++++++++++++++to 0.0122795
+Heightened Def Con from 0.012311 ++++++++++++++++++++++to 0.012311
+Heightened Def Con from 0.0123425 ++++++++++++++++++++++to 0.0123425
+Heightened Def Con from 0.0123741 ++++++++++++++++++++++to 0.0123741
+Heightened Def Con from 0.0124056 ++++++++++++++++++++++to 0.0124056
+Heightened Def Con from 0.0124371 ++++++++++++++++++++++to 0.0124371
+Heightened Def Con from 0.0124686 ++++++++++++++++++++++to 0.0124686
+Heightened Def Con from 0.0125001 ++++++++++++++++++++++to 0.0125001
+Heightened Def Con from 0.0125316 ++++++++++++++++++++++to 0.0125316
+Heightened Def Con from 0.0125632 ++++++++++++++++++++++to 0.0125632
+Heightened Def Con from 0.0125947 ++++++++++++++++++++++to 0.0125947
+Heightened Def Con from 0.0126262 ++++++++++++++++++++++to 0.0126262
+Heightened Def Con from 0.0126577 ++++++++++++++++++++++to 0.0126577
+Heightened Def Con from 0.0126892 ++++++++++++++++++++++to 0.0126892
+Heightened Def Con from 0.0127207 ++++++++++++++++++++++to 0.0127207
+Heightened Def Con from 0.0127522 ++++++++++++++++++++++to 0.0127523
+Heightened Def Con from 0.0127838 ++++++++++++++++++++++to 0.0127838
+Heightened Def Con from 0.0128153 ++++++++++++++++++++++to 0.0128153
+Heightened Def Con from 0.0128468 ++++++++++++++++++++++to 0.0128468
+Heightened Def Con from 0.0128783 ++++++++++++++++++++++to 0.0128783
+Heightened Def Con from 0.0129098 ++++++++++++++++++++++to 0.0129098
+Heightened Def Con from 0.0129413 ++++++++++++++++++++++to 0.0129413
+Heightened Def Con from 0.0129729 ++++++++++++++++++++++to 0.0129729
+Heightened Def Con from 0.0130044 ++++++++++++++++++++++to 0.0130044
+Heightened Def Con from 0.0130359 ++++++++++++++++++++++to 0.0130359
+Heightened Def Con from 0.0130674 ++++++++++++++++++++++to 0.0130674
+Heightened Def Con from 0.0130989 ++++++++++++++++++++++to 0.0130989
+Heightened Def Con from 0.0131304 ++++++++++++++++++++++to 0.0131304
+Heightened Def Con from 0.013162 ++++++++++++++++++++++to 0.013162
+Heightened Def Con from 0.0131935 ++++++++++++++++++++++to 0.0131935
+Heightened Def Con from 0.013225 ++++++++++++++++++++++to 0.013225
+Heightened Def Con from 0.0132565 ++++++++++++++++++++++to 0.0132565
+Heightened Def Con from 0.013288 ++++++++++++++++++++++to 0.013288
+Heightened Def Con from 0.0133195 to 0.0133195
+
+Date: Tue Mar 02 20:40:13 2021
+Total elapsed time: 13.979 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1741472
+traniter = 1741044
+tranpoints = 310387
+accept = 163541
+rejected = 156553
+matrix size = 45
+fillins = 6
+solver = Normal
+Matrix Compiler1: 2.05 KB object code size  0.8/0.5/[0.2]
+Matrix Compiler2: 3.33 KB object code size  0.6/1.1/[0.4]
+
